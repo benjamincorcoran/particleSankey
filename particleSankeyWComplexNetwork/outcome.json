@@ -1,0 +1,20 @@
+{"nodes":[
+{"name":"All Students", "color":"#002554"},
+{"name":"Outcome 1", "color":"#F1B434"},
+{"name":"Outcome 2" ,"color":"#6BCABA"},
+{"name":"Outcome 3" ,"color":"#DABCDF"},
+{"name":"MID" ,"color":"#DABCDF"},
+{"name":"END" ,"color":"#DABCDF"},
+{"name":"otherend" ,"color":"#DABCDF"}
+],
+"links":[
+{"source":0,"target":1,"value_old":50,"value_young":0},
+{"source":0,"target":2,"value_old":20,"value_young":80},
+{"source":0,"target":3,"value_old":70,"value_young":30},
+{"source":1,"target":4,"value_old":50,"value_young":0},
+{"source":2,"target":4,"value_old":50,"value_young":50},
+{"source":4,"target":5,"value_old":50,"value_young":50},
+{"source":3,"target":5,"value_old":50,"value_young":50},
+{"source":4,"target":6,"value_old":50,"value_young":50}
+
+]}
